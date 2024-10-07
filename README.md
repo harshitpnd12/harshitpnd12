@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on web development project<br><br>🌱 I’m currently learning python, Backend development<br><br>👨‍💻 All of my projects are available at http://127.0.0.1:5500/index.html<br><br>💬 Ask me about python java c<br><br>📫 How to reach me harshit200212pandey@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1PkJ-fGnWz6mO7XmukkcKfF4nNysDunvH/view?usp=drivesdk
+ I’m currently working on web development project<br><br>🌱 I’m currently learning Java, Backend development<br><br>👨‍💻 All of my projects are available at http://127.0.0.1:5500/index.html<br><br>💬 Ask me about java <br><br>📫 How to reach me harshit200212pandey@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1PkJ-fGnWz6mO7XmukkcKfF4nNysDunvH/view?usp=drivesdk
 
 
 ## 🌐 Socials:
