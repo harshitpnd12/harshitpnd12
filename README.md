@@ -12,17 +12,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my skills in **Data Structures and Algorithms** with hands-on practice**
+- 🔭 I’m currently working on **Improving my skills in **DSA** with hands-on practice**
 
-- 🌱 I’m currently learning **- **Spring Boot** for building robust backend applications - **Data Structures and Algorithms** for efficient problem-solving - **React** to enhance my frontend development skills**
+- 🌱 I’m currently learning **- **Spring Boot** for building robust backend applications - **DSA** for efficient problem-solving **
 
-- 👯 I’m looking to collaborate on **- **Open-source** projects in Java, Spring Boot, - **Full-stack web development** projects, especially using Java and JavaScript frameworks - **Data Structures and Algorithms** problem-solving challenges**
+- 👯 I’m looking to collaborate on **- **Open-source** projects in Java, Spring Boot, - **DSA** problem-solving challenges**
 
-- 🤝 I’m looking for help with **- Advanced **Spring Boot** features and best practices - Optimizing **Data Structures and Algorithms** for competitive programming - **Contributing to open-source** Java projects to enhance my experience**
+- 🤝 I’m looking for help with **- Advanced **Spring Boot** features and best practices - Optimizing **DSA** for competitive programming - **
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshitpnd12?tab=repositories](https://github.com/harshitpnd12?tab=repositories)
 
-- 💬 Ask me about **- **Java** and backend development with **Spring Boot** - **Data Structures and Algorithms** problem-solving strategies**
+- 💬 Ask me about **- **Java** and backend development with **Spring Boot** - **DSA** problem-solving strategies**
 
 - 📫 How to reach me **harshit200212pandey@gmail.com**
 
